@@ -36,11 +36,11 @@
 
 - **데이터 수집 및 레이블링** : 08.16 ~ 08.28
   * 데이터 크롤링 
-  * 액티브러닝을 통한 레이블링
+  * Active Learning을 통한 레이블링
 
 - **모델 구축 및 학습** : 08.29 ~ 09.16
   * MLM Task를 통한 모델 고도화
-  * Sweep을 통한 Hyper Parameter 최적화
+  * WandB Sweep을 통한 Hyper Parameter 최적화
  
 - **Streamlit 학습** : 08.31 ~ 09.11
 - **Streamlit 구현** : 09.12 ~ 09.23
