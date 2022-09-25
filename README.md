@@ -1,4 +1,4 @@
-# AIFFELTON
+# AIFFELTHON
 
 팀프로젝트로 진행되는 AIFFELTHON의 파일을 업로드 하는 저장소 입니다. 
 
