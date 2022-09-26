@@ -25,6 +25,8 @@
 ***
 # 📈 2. Flow Chart
 
+![streamlit algorism](https://user-images.githubusercontent.com/103625261/192179312-76761e83-c606-464f-935f-3fda993a1134.jpg)
+
 ***
 
 # 📱 3. 사용 모델 및 데이터셋
