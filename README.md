@@ -56,3 +56,6 @@
 ***
 # 🎬 5. 시연 영상
 ![streamlit_demo_first(2)](https://user-images.githubusercontent.com/103625261/192456906-0bbdd04b-7a03-4ab2-b06f-5801f62cdc21.gif)
+![streamlit_demo_second](https://user-images.githubusercontent.com/103625261/192457450-f47d89a1-7edd-4e7d-b4f1-bf51abd5ea01.gif)
+![streamlit_demo_third(2)](https://user-images.githubusercontent.com/103625261/192457558-8b4c7408-f9f2-4f6f-ac10-62563149eeb1.gif)
+
