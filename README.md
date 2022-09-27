@@ -55,3 +55,4 @@
 
 ***
 # 🎬 5. 시연 영상
+![streamlit_demo_first(2)](https://user-images.githubusercontent.com/103625261/192456906-0bbdd04b-7a03-4ab2-b06f-5801f62cdc21.gif)
