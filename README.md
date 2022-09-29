@@ -31,7 +31,7 @@
 
 # 📱 3. 사용 모델 및 데이터셋
 
-- 사용 모델 : Klue-Bert을 통한 3요소 분류와 감정분석
+- 사용 모델 : Klue/Bert-base를 통한 3요소 분류와 감성 분석
 - 데이터셋 : 크롤링 데이터셋 + 모두의 말뭉치 데이터셋 
 - 웹 구현 : Streamlit, css hacking
 - 크롤링 : Selenium 
